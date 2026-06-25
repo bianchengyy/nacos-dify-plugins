@@ -1,3 +1,4 @@
+setuptools>=40.8.0
 dify_plugin>=0.5.0
 nacos-maintainer-sdk-python>=0.5.1
 mcp==1.9.2
